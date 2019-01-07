@@ -1,0 +1,1 @@
+[30-Oct-2018 12:51:17 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 11 bytes) in /home/vivodesign/public_html/projects/denniskennylaw/wp-content/themes/Divi/includes/builder/class-et-builder-element.php on line 3877
